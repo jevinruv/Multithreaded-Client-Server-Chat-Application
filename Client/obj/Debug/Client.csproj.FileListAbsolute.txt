@@ -1,0 +1,22 @@
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.exe.config
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formMain.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formLogin.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.exe.config
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.pdb
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formMain.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formLogin.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.pdb
